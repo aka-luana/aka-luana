@@ -1,16 +1,23 @@
-### Hi there 👋
+# Luana Matos Brito Sales (ela/dela)
 
-<!--
-**aka-luana/aka-luana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+> * Analista Desenvolvedora I - AmbevTech
+> * Técnica em Informática - IFSC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atuações
+
+> - :computer: Atuarei como Analista desenvolvedora I na AmbevTech;
+> - :books: Fui aluna no Programa Entra21 de 2020 na turma de Formação Python;
+> - :school: Conclui o curso técnico em informática em 2021 no Instituto Federal;
+
+## Interesses
+
+> - 💖 Amo aprender coisas novas e compartilhar novos conhecimentos;
+> - 👩‍💻 Tenho interesse tanto no back quanto no frontend;
+> - 📚 No momento estou estudando C# e ReactJS;
+
+## Onde me encontrar
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-matos-brito-sales-4253871b9/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aka_luana/?hl=pt-br)
