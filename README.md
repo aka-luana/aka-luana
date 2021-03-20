@@ -7,7 +7,7 @@
 
 ## Atuações
 
-> - :computer: Atuarei como Analista desenvolvedora I na AmbevTech;
+> - :computer: Atuo como Analista desenvolvedora I na AmbevTech;
 > - :books: Fui aluna no Programa Entra21 de 2020 na turma de Formação Python;
 > - :school: Conclui o curso técnico em informática em 2021 no Instituto Federal;
 
