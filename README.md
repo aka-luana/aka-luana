@@ -1,4 +1,4 @@
-# Luana Matos Brito Sales (ela/dela)
+# Luana Matos Brito Sales
 
 ## Sobre mim
 
