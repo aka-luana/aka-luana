@@ -4,6 +4,7 @@
 
 > * Analista Desenvolvedora I - AmbevTech
 > * Técnica em Informática - IFSC
+> * Graduanda em Análise e Desenvolvimento de Sistemas - IFSC 
 
 ## Atuações
 
