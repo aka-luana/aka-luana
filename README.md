@@ -15,8 +15,8 @@
 ## Interesses
 
 > - 💖 Amo aprender coisas novas e compartilhar novos conhecimentos;
-> - 👩‍💻 Tenho interesse tanto no back quanto no frontend;
-> - 📚 No momento estou estudando C# e ReactJS;
+> - 👩‍💻 Tenho mais interesse no backend;
+> - 📚 No momento estou estudando C#;
 
 ## Onde me encontrar
 
