@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-> * Analista Desenvolvedora II - AmbevTech
+> * Analista Desenvolvedora Pleno - AmbevTech
 > * Técnica em Informática - IFSC
 > * Graduanda em Análise e Desenvolvimento de Sistemas - Unisociesc 
 
