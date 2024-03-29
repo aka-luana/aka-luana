@@ -2,13 +2,13 @@
 
 ## Sobre mim
 
-> * Analista Desenvolvedora Pleno - AmbevTech
+> * Analista Desenvolvedora Pleno - Mercado Livre
 > * Técnica em Informática - IFSC
 > * Graduanda em Análise e Desenvolvimento de Sistemas - Unisociesc 
 
 ## Atuações
 
-> - :computer: Atuo como Analista desenvolvedora II na AmbevTech;
+> - :computer: Atuo como Semi Software Engineer no Mercado Libre;
 > - :books: Fui aluna no Programa Entra21 de 2020 na turma de Formação Python;
 > - :school: Conclui o curso técnico em informática em 2021 no Instituto Federal;
 
@@ -16,7 +16,7 @@
 
 > - 💖 Amo aprender coisas novas e compartilhar novos conhecimentos;
 > - 👩‍💻 Tenho mais interesse no backend;
-> - 📚 No momento estou estudando C#;
+> - 📚 Trabalhei com C# durante 3 anos, agora estou aprendendo Golang;
 
 ## Onde me encontrar
 
